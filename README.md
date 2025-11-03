@@ -74,18 +74,11 @@
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manishshrivas851/manishshrivas851/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="mailto:manishshrivas851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/manishshrivas851"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manishshrivas851"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manishshrivas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
